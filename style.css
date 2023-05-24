@@ -1,0 +1,33 @@
+/* color of the button */
+.button{
+    background-color: blue;
+    border:none;
+    border-radius: 5px;
+    text-align: left;
+}
+/* color of the button while hovering */
+.button:hover {
+    background-color: pink;
+}
+
+/* color of the button once clicked */
+.button:focus {
+    background-color: gray ;
+}
+/* style of button */
+button {
+    color: white;
+    padding: 5px;
+    width: 200px;
+    
+}
+
+.text {
+    width: 200px;
+
+}
+
+form > button > span {
+    float: right;
+
+}
